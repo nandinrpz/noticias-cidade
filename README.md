@@ -4,6 +4,7 @@ definindo espaçamentos, entendendo como vai funcionar o layout e barras de nave
 <img width="1898" height="863" alt="image" src="https://github.com/user-attachments/assets/a9945f81-824a-4fdf-8f99-fbeab4ea1730" />
 estou perto do fim desse estudo sobre CSS, criei as listas e as formatei, deixando a página mais dinâmica
 
+<img width="1064" height="822" alt="image" src="https://github.com/user-attachments/assets/5562ada7-c7ae-458a-8472-03a1dffdc302" />
 
 https://github.com/user-attachments/assets/c1e918ef-0fd5-49bd-91a9-cd1ac9a0419f
 Um site não é apenas sobre informação, é sobre experiência!
